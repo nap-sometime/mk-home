@@ -2,7 +2,7 @@
   "name": "@mk/home",
   "version": "0.1.0",
   "private": true,
-  "license": "bsd-3-clause",
+  "license": "apache2",
   "scripts": {
     "serve": "vue-cli-service serve",
     "dev": "vue-cli-service serve",
